@@ -1,0 +1,1 @@
+# Notes for Hands-On-Large-Language-Models [Link](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
